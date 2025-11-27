@@ -1,7 +1,7 @@
 # 💫 Henrico Hosaki
 
 ### Developer • JavaScript/TypeScript | SQL | Docker | Render 
-Estudante de ADS (Fatec Taquaritinga – 2026) • Aprendiz de TI na Maqmóveis
+Suporte de TI na Maqmóveis
 
 Sou focado em desenvolvimento backend, APIs e banco de dados. Gosto de aprender fazendo, construir projetos reais e resolver problemas de forma simples e eficientes.  
 Atualmente trabalho com Suport de nível 1 e projetos freelancer como o KadMill.
