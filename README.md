@@ -61,8 +61,8 @@ Atualmente trabalho com Suport de nível 1 e projetos freelancer como o KadMill.
 
 ## 🚀 Projetos Recentes
 
-- **Sistema de Estoque** — JavaScript + Node.js + PostgreSQL + Docker + Render  
 - **KadMill** — Sistema para a empresa LR Usinagem — TypeScript + React + PostgreSQL + Render + Docker
+- **Sistema de Estoque** — JavaScript + Node.js + PostgreSQL + Docker + Render  
 - **API REST de autenticação e CRUD** — estudos
 
 ---
