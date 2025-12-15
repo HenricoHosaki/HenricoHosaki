@@ -1,6 +1,6 @@
 # 💫 Henrico Hosaki
 
-### Developer • JavaScript/TypeScript | SQL | Docker | Render 
+### Developer • TypeScript/JavaScript | PostgreSQL | Docker | Render 
 Suporte de TI na Maqmóveis
 
 Sou focado em desenvolvimento backend, APIs e banco de dados. Gosto de aprender fazendo, construir projetos reais e resolver problemas de forma simples e eficientes.  
@@ -10,7 +10,7 @@ Atualmente trabalho com Suport de nível 1 e projetos freelancer como o KadMill.
 
 ## ✨ Sobre mim
 
-- 🔭 Atualmente trabalhando em **Projeto Kadmill**
+- 🔭 Atualmente trabalhando no **Projeto Kadmill**
 - 🌱 Estudando **TypeScript, React, Docker e Deploy em Render**
 - 💼 Interesses: engenharia de software, backend/frontend , arquitetura de software
 - 🧠 Aprofundando conhecimentos em **Desenvolvimento de software**
