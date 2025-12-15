@@ -13,7 +13,7 @@ Atualmente trabalho com Suport de nível 1 e projetos freelancer como o KadMill.
 - 🔭 Atualmente trabalhando em **Projeto Kadmill**
 - 🌱 Estudando **TypeScript, React, Docker e Deploy em Render**
 - 💼 Interesses: engenharia de software, backend/frontend , arquitetura de software
-- 🧠 Aprofundando conhecimentos em **Engenharia de software**
+- 🧠 Aprofundando conhecimentos em **Desenvolvimento de software**
 - 🚀 Sempre criando projetos para estudo e portfólio
 
 ---
