@@ -1,12 +1,12 @@
 # 💫 Henrico Hosaki
 
 ### Full Stack Developer  
-C# • TypeScript • PostgreSQL • Docker  
+C# • Python • React • TypeScript • SQL • PostgreSQL • Docker  
 
 Full Stack Developer at **Programmers**
 
-Backend-focused developer building APIs, scalable systems, and real-world solutions.  
-Passionate about clean code, software architecture, and continuous improvement.
+Fullstack developer scalable systems, and real-world solutions.  
+Passionate about clean code, agile method, software architecture, and continuous improvement.
 
 ---
 
@@ -14,8 +14,8 @@ Passionate about clean code, software architecture, and continuous improvement.
 
 - 🔭 Currently working at **Programmers**
 - 🚀 Developing the **KadMill Project**
-- 🌱 Studying Software Architecture, Clean Code, and Cloud Deployment
-- 💼 Interests: Software Engineering, Backend & Frontend Development, AI
+- 🌱 Studying Software Architecture, Agile method, C#
+- 💼 Interests: Software Engineering, Fullstack development, AI
 - 🧠 Focused on scalable applications and system design
 
 ---
@@ -23,16 +23,21 @@ Passionate about clean code, software architecture, and continuous improvement.
 ## 🛠️ Tech Stack
 
 ### Backend  
-- C#  
+- C#
+- Python
+- TypeScript  
 - Node.js  
 - PostgreSQL  
 
 ### Frontend
-- TypeScript  
+- React
+- Angular  
 - JavaScript  
 
 ### DevOps & Tools
-- Docker  
+- Docker
+- Azure DevOps
+- WSL  
 - Git & GitHub  
 - Render  
 - VS Code  
