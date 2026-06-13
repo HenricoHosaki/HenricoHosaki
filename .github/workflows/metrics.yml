@@ -1,0 +1,49 @@
+name: Metrics
+
+on:
+  # Runs daily, on manual trigger, and on every push to main
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate metrics
+        uses: lowlighter/metrics@latest
+        with:
+          # Personal Access Token (classic) stored as a repo secret
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: HenricoHosaki
+          filename: github-metrics.svg
+          template: classic
+          config_timezone: America/Sao_Paulo
+
+          # Core sections
+          base: header, activity, community, repositories, metadata
+
+          # 3D isometric contribution calendar
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Most used languages
+          plugin_languages: yes
+          plugin_languages_details: percentage, bytes-size
+          plugin_languages_limit: 8
+
+          # Coding habits and activity facts
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          # Dark blue styling to match the profile banner
+          extras_css: |
+            .background { fill: #0D1B2A !important; }
+            svg { background: #0D1B2A !important; }
+            text, tspan, .title { fill: #FFFFFF !important; }
+            .field, .value, .subtitle, .text { fill: #C9D6E3 !important; }
