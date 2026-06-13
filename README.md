@@ -27,20 +27,27 @@ Passionate about clean code, agile method, software architecture, and continuous
 - Python
 - TypeScript  
 - Node.js  
-- PostgreSQL  
+- PostgreSQL
+- MinIO  
 
 ### Frontend
 - React
 - Angular  
-- JavaScript  
+- JavaScript
+
+## Data
+- CrewAI
+- RAG
+- Python
 
 ### DevOps & Tools
 - Docker
+- Obsidian
+- Claude
 - Azure DevOps
 - WSL  
-- Git & GitHub  
-- Render  
-- VS Code  
+- Git & GitHub    
+- VS & VsCode  
 
 ## 🚀 Projects
 
