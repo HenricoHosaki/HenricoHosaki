@@ -74,7 +74,7 @@ Backend architecture and API development studies.
 ## 📊 Detailed Metrics
 
 <div align="center">
-  <img src="./github-metrics.svg" width="100%" alt="GitHub metrics"/>
+  <img src="./github-metrics.svg?v=2" width="100%" alt="GitHub metrics"/>
 </div>
 
 ---
