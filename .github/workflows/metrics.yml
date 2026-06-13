@@ -36,11 +36,6 @@ jobs:
           plugin_languages_details: percentage, bytes-size
           plugin_languages_limit: 8
 
-          # Coding habits and activity facts
-          plugin_habits: yes
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
-
           # Dark blue styling to match the profile banner
           extras_css: |
             .background { fill: #0D1B2A !important; }
