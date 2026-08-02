@@ -52,7 +52,7 @@
 
   <text x="600" y="205" text-anchor="middle" font-family="Fira Code, monospace"
         font-size="22" fill="#4FC3F7" letter-spacing="2">
-    Full Stack Developer &#183; AI Enthusiast
+    Assistant Developer &#183; Cloud &amp; Backend
     <animate attributeName="opacity" values="0;0;1" dur="2.5s" fill="freeze"/>
   </text>
 

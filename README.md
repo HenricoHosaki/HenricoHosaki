@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/HenricoHosaki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer+%40+Programmers;C%23+%E2%80%A2+Python+%E2%80%A2+React+%E2%80%A2+TypeScript;Multi-Agent+AI+%E2%80%A2+RAG+%E2%80%A2+CrewAI;Clean+Code+%26+Software+Architecture" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Assistant+Developer+%40+Programmers;C%23+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+TypeScript;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+EF+Core;Cloud-Native+%E2%80%A2+Google+Cloud+%E2%80%A2+Docker" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,14 +12,16 @@
 
 ## ✨ About Me
 
-Full Stack Developer at **Programmers**, building scalable systems and real-world solutions.
+Assistant Developer at **Programmers**, building scalable systems and real-world solutions.
 Passionate about clean code, agile methods, software architecture, and continuous improvement.
 
-- 🔭 Working on enterprise microservices applications (C# • Node.js • React)
-- 🤖 Building a **Multi-Agent Customer Support Assistant** — AI SAC with CrewAI, RAG & Gemini
-- 🌱 Studying Software Architecture, Multi-Agent AI Systems, and Agile methods
-- 💼 Interests: Software Engineering, Full Stack Development, Applied AI
-- 🧠 Focused on scalable applications and system design
+1x Google Cloud Certificate
+
+- 🔭 Working on **KadMill** — full backend rewrite in C# / .NET, Clean Architecture & EF Core, deploying to Google Cloud Run + Firebase Auth
+- ☁️ Studying for **Google Cloud Professional Cloud Developer**
+- 🌱 Deepening Domain-Driven Design, Clean Architecture and relational database fundamentals
+- 💼 Interests: Backend Engineering, Software Architecture, Cloud-Native Systems
+- 🧠 Focused on scalable systems, clean code and real-world production software
 
 ---
 
@@ -27,11 +29,11 @@ Passionate about clean code, agile methods, software architecture, and continuou
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,nodejs,react,postgres,docker,git,obsidian,vscode,visualstudio&theme=dark&perline=7" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,python,ts,js,nodejs,react,postgres,gcp,firebase,docker,git,vscode,visualstudio&theme=dark&perline=7" alt="tech stack" />
 
 <br/><br/>
 
-**AI & Data:** CrewAI · RAG · Gemini &nbsp;&nbsp;•&nbsp;&nbsp; **Storage:** MinIO &nbsp;&nbsp;•&nbsp;&nbsp; **CI/CD:** Azure DevOps &nbsp;&nbsp;•&nbsp;&nbsp; **OS:** WSL
+**Cloud:** Google Cloud Run · Firebase Auth · Railway &nbsp;&nbsp;•&nbsp;&nbsp; **AI & Data:** CrewAI · RAG · Gemini &nbsp;&nbsp;•&nbsp;&nbsp; **CI/CD:** GitHub Actions · Azure DevOps &nbsp;&nbsp;•&nbsp;&nbsp; **OS:** WSL
 
 </div>
 
@@ -39,14 +41,15 @@ Passionate about clean code, agile methods, software architecture, and continuou
 
 ## 🚀 Projects
 
+**🏭 KadMill**
+Industrial management system for LR Usinagem — real production system, now being fully rewritten in C# with Clean Architecture, EF Core & Google Cloud.
+`C#` • `.NET` • `EF Core` • `PostgreSQL` • `Google Cloud Run` • `Firebase Auth`
+🔗 [github.com/HenricoHosaki/KadMill](https://github.com/HenricoHosaki/KadMill)
+
 **🤖 Multi-Agent Customer Support Assistant**
-Multi-agent AI SAC for Products, Deliveries & Payments, grounded in RAG.
+Multi-agent AI SAC for Products, Deliveries & Payments, grounded in RAG. Built during internship.
 `Python` • `CrewAI` • `RAG` • `Gemini`
 🔗 [github.com/HenricoHosaki/MultiAgentAssistant](https://github.com/HenricoHosaki/MultiAgentAssistant)
-
-**🏭 KadMill**
-Management system for LR Usinagem.
-`TypeScript` • `React` • `PostgreSQL` • `Docker` • `Render`
 
 **📦 Inventory System**
 `Node.js` • `PostgreSQL` • `Docker` • `Render`
@@ -66,6 +69,10 @@ Backend architecture and API development studies.
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenricoHosaki&hide_border=true&background=0D1B2A&ring=4FC3F7&fire=4FC3F7&currColor=4FC3F7&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=1565C0" />
+
+<br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HenricoHosaki&bg_color=0D1B2A&color=4FC3F7&line=4FC3F7&point=FFFFFF&area=true&area_color=1565C0&hide_border=true" alt="activity graph" />
 
 </div>
 
