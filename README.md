@@ -63,16 +63,7 @@ Backend architecture and API development studies.
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HenricoHosaki&show_icons=true&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&icon_color=4FC3F7&text_color=FFFFFF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenricoHosaki&layout=compact&hide_border=true&bg_color=0D1B2A&title_color=4FC3F7&text_color=FFFFFF" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenricoHosaki&hide_border=true&background=0D1B2A&ring=4FC3F7&fire=4FC3F7&currColor=4FC3F7&sideNums=FFFFFF&sideLabels=FFFFFF&dates=AAAAAA&stroke=1565C0" />
-
-<br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=HenricoHosaki&bg_color=0D1B2A&color=4FC3F7&line=4FC3F7&point=FFFFFF&area=true&area_color=1565C0&hide_border=true" alt="activity graph" />
 
 </div>
 
