@@ -26,7 +26,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M5.5 3.5a2 2 0 100 4 2 2 0 000-4zM2 5.5a3.5 3.5 0 115.898 2.549 5.507 5.507 0 013.034 4.084.75.75 0 11-1.482.235 4.001 4.001 0 00-7.9 0 .75.75 0 01-1.482-.236A5.507 5.507 0 013.102 8.05 3.49 3.49 0 012 5.5zM11 4a.75.75 0 100 1.5 1.5 1.5 0 01.666 2.844.75.75 0 00-.416.672v.352a.75.75 0 00.574.73c1.2.289 2.162 1.2 2.522 2.372a.75.75 0 101.434-.44 5.01 5.01 0 00-2.56-3.012A3 3 0 0011 4z"/>
                             </svg>
-                            Followed by 55 users
+                            Followed by 54 users
                         </div>
                     </section>
                     <section>
@@ -37,15 +37,15 @@ text, tspan, .title { fill: #FFFFFF !important; }
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -54,7 +54,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M1 2.5A2.5 2.5 0 013.5 0h8.75a.75.75 0 01.75.75v3.5a.75.75 0 01-1.5 0V1.5h-8a1 1 0 00-1 1v6.708A2.492 2.492 0 013.5 9h3.25a.75.75 0 010 1.5H3.5a1 1 0 100 2h5.75a.75.75 0 010 1.5H3.5A2.5 2.5 0 011 11.5v-9zm13.23 7.79a.75.75 0 001.06-1.06l-2.505-2.505a.75.75 0 00-1.06 0L9.22 9.229a.75.75 0 001.06 1.061l1.225-1.224v6.184a.75.75 0 001.5 0V9.066l1.224 1.224z"/>
                             </svg>
-                            Contributed to 11 repositories
+                            Contributed to 9 repositories
                         </div>
                     </section>
                 </div>
@@ -72,7 +72,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            234 Commits
+                            231 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -148,7 +148,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            20 Repositories
+                            18 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -222,14 +222,14 @@ text, tspan, .title { fill: #FFFFFF !important; }
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="173.92833952462925" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="173.92833952462925" y="0" width="110.96504937936032" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="284.8933889039896" y="0" width="53.53798586572438" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="338.43137476971395" y="0" width="48.504500015100724" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="386.93587478481464" y="0" width="43.36074114342665" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="430.29661592824135" y="0" width="12.876763009271842" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="443.1733789375132" y="0" width="9.333265380085168" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="452.50664431759833" y="0" width="7.493355682401619" height="8" fill="#7355dd"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="175.56810993315904" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="175.56810993315904" y="0" width="109.96288307788457" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="285.5309930110436" y="0" width="54.042734000472535" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="339.57372701151616" y="0" width="48.96179319700931" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="388.5355202085255" y="0" width="43.76953973492268" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="432.30505994344816" y="0" width="12.998163207755683" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="445.30322315120384" y="0" width="9.421258012148742" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="454.7244811633526" y="0" width="5.275518836647435" height="8" fill="#7355dd"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -242,7 +242,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             </div>
                             <small>
                                 <div>200 kB</div>
-                                <div>37.81%</div>
+                                <div>38.17%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -254,7 +254,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             </div>
                             <small>
                                 <div>61.6 kB</div>
-                                <div>11.64%</div>
+                                <div>11.75%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -266,7 +266,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             </div>
                             <small>
                                 <div>49.9 kB</div>
-                                <div>9.43%</div>
+                                <div>9.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -278,7 +278,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             </div>
                             <small>
                                 <div>10.7 kB</div>
-                                <div>2.03%</div>
+                                <div>2.05%</div>
                             </small>
                         </div>
                     </section>
@@ -291,8 +291,8 @@ text, tspan, .title { fill: #FFFFFF !important; }
                                 JavaScript
                             </div>
                             <small>
-                                <div>127 kB</div>
-                                <div>24.12%</div>
+                                <div>125 kB</div>
+                                <div>23.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -304,7 +304,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             </div>
                             <small>
                                 <div>55.8 kB</div>
-                                <div>10.54%</div>
+                                <div>10.64%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -316,7 +316,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                             </div>
                             <small>
                                 <div>14.8 kB</div>
-                                <div>2.8%</div>
+                                <div>2.83%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -327,8 +327,8 @@ text, tspan, .title { fill: #FFFFFF !important; }
                                 C#
                             </div>
                             <small>
-                                <div>8.63 kB</div>
-                                <div>1.63%</div>
+                                <div>6.02 kB</div>
+                                <div>1.15%</div>
                             </small>
                         </div>
                     </section>
@@ -438,7 +438,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
                                 <g transform="translate(165, 0)">
@@ -552,7 +552,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                                 <g transform="translate(345, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -561,7 +561,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                                 <g transform="translate(360, 0)">
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -652,7 +652,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                                     <rect class="day" x="0" y="4" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="19" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="79" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="94" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -735,6 +735,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
                                     <rect class="day" x="0" y="34" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="49" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="0" y="64" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="79" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </g>
                         </svg>
@@ -743,7 +744,7 @@ text, tspan, .title { fill: #FFFFFF !important; }
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 30 Oct 2026, 00:12:28 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 30 Oct 2026, 23:57:20 (timezone America/Sao_Paulo) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
