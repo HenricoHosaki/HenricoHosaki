@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/HenricoHosaki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Assistant+Developer+%40+Programmers;C%23+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+TypeScript;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+EF+Core;Cloud-Native+%E2%80%A2+Google+Cloud+%E2%80%A2+Docker" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=650&lines=Assistant+Developer+%40+Programmers;Google+Cloud+Certified+%E2%80%A2+Professional+Cloud+Developer;C%23+%E2%80%A2+.NET+%E2%80%A2+React+%E2%80%A2+TypeScript;Clean+Architecture+%E2%80%A2+DDD+%E2%80%A2+EF+Core;Cloud-Native+%E2%80%A2+Google+Cloud+%E2%80%A2+Docker" alt="Typing SVG" />
   </a>
 </div>
 
@@ -15,11 +15,11 @@
 Assistant Developer at **Programmers**, building scalable systems and real-world solutions.
 Passionate about clean code, agile methods, software architecture, and continuous improvement.
 
-1x Google Cloud Certificate
+☁️ **2x Google Cloud Certified:** Professional Cloud Developer · Cloud Digital Leader
 
-- 🔭 Working on **KadMill** — full backend rewrite in C# / .NET, Clean Architecture & EF Core, deploying to Google Cloud Run + Firebase Auth
-- ☁️ Studying for **Google Cloud Professional Cloud Developer**
-- 🌱 Deepening Domain-Driven Design, Clean Architecture and relational database fundamentals
+- 🔭 Building an **event-driven gateway** in .NET and Node.js with the Transactional Outbox pattern on Google Cloud
+- 🤖 At work: AI automation POCs — document processing with Azure Document Intelligence and LLM agents, and AI agents with MCP servers for IT operations
+- 🌱 Deepening Domain-Driven Design, Clean Architecture, relational databases and infrastructure as code
 - 💼 Interests: Backend Engineering, Software Architecture, Cloud-Native Systems
 - 🧠 Focused on scalable systems, clean code and real-world production software
 
@@ -33,7 +33,7 @@ Passionate about clean code, agile methods, software architecture, and continuou
 
 <br/><br/>
 
-**Cloud:** Google Cloud Run · Firebase Auth · Railway &nbsp;&nbsp;•&nbsp;&nbsp; **AI & Data:** CrewAI · RAG · Gemini &nbsp;&nbsp;•&nbsp;&nbsp; **CI/CD:** GitHub Actions · Azure DevOps &nbsp;&nbsp;•&nbsp;&nbsp; **OS:** WSL
+**Cloud:** Cloud Run · Cloud Build · Artifact Registry · Firestore · Pub/Sub · IAM · Firebase Auth · Railway &nbsp;&nbsp;•&nbsp;&nbsp; **AI & Data:** CrewAI · RAG · Gemini · Azure Document Intelligence &nbsp;&nbsp;•&nbsp;&nbsp; **CI/CD:** Cloud Build · GitHub Actions · Azure DevOps &nbsp;&nbsp;•&nbsp;&nbsp; **OS:** WSL
 
 </div>
 
@@ -42,9 +42,19 @@ Passionate about clean code, agile methods, software architecture, and continuou
 ## 🚀 Projects
 
 **🏭 KadMill**
-Industrial management system for LR Usinagem — real production system, now being fully rewritten in C# with Clean Architecture, EF Core & Google Cloud.
-`C#` • `.NET` • `EF Core` • `PostgreSQL` • `Google Cloud Run` • `Firebase Auth`
-🔗 [github.com/HenricoHosaki/KadMill](https://github.com/HenricoHosaki/KadMill)
+Industrial management SaaS for LR Usinagem — real production system running 24/7, with TypeScript backend, PostgreSQL and Redis.
+`TypeScript` • `Node.js` • `PostgreSQL` • `Redis` • `Docker` • `Railway`
+🔗 [github.com/HenricoHosaki/KadMill-legacy](https://github.com/HenricoHosaki/KadMill-legacy)
+
+**☁️ Cloud Run Todo API**
+.NET API deployed to Google Cloud Run with CI/CD through Cloud Build, persistence in Firestore and asynchronous events with Pub/Sub. Built while preparing for the Professional Cloud Developer exam.
+`C#` • `.NET` • `Cloud Run` • `Cloud Build` • `Firestore` • `Pub/Sub` • `xUnit`
+🔗 [github.com/HenricoHosaki/GCP-Practice](https://github.com/HenricoHosaki/GCP-Practice)
+
+**🧩 Enterprise E-commerce Gateway** 🚧 *in progress*
+Event-driven gateway using the Transactional Outbox pattern: customer registration writes the order and an outbox message atomically, a worker publishes to Pub/Sub, and a consumer applies risk rules with a dead-letter queue.
+`C#` • `.NET` • `Node.js` • `TypeScript` • `PostgreSQL` • `Pub/Sub`
+🔗 [github.com/HenricoHosaki/ecommerce_enterprise](https://github.com/HenricoHosaki/ecommerce_enterprise)
 
 **🤖 Multi-Agent Customer Support Assistant**
 Multi-agent AI SAC for Products, Deliveries & Payments, grounded in RAG. Built during internship.
